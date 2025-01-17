@@ -1,0 +1,20 @@
+/* base */
+body{
+  margin: 0;
+}
+
+
+
+.body-header{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+  align-items: center;
+}
+
+.search{
+  display: flex;
+
+}
+
